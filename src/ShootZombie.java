@@ -63,7 +63,7 @@ public class ShootZombie extends JPanel implements Runnable{
 	
 	public void init(){
 		this.score = 0;
-		this.time = 5;
+		this.time = 15;
 		this.GG = 0;
 	}
 	

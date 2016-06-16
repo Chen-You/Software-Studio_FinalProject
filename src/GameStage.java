@@ -107,6 +107,7 @@ public class GameStage extends JFrame implements KeyListener {
 		gs = new ClientGameStage(this);
 		gs.setBounds(0, 0, 450, 750);
 		this.add(gs);
+		gs.setVisible(false);
 
 		// add(lpane, BorderLayout.CENTER);
 

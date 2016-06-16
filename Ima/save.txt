@@ -1,6 +1,6 @@
 Save:1
-Flag:0
-HP:500
-Damage:120
+Flag:1
+HP:1500
+Damage:300
 Cohesion:35
 PhysicalPower:50
